@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\bin\Debug\netcoreapp3.1\Studio2-Counting-Characters.exe
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\bin\Debug\netcoreapp3.1\Studio2-Counting-Characters.deps.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\bin\Debug\netcoreapp3.1\Studio2-Counting-Characters.runtimeconfig.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\bin\Debug\netcoreapp3.1\Studio2-Counting-Characters.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\bin\Debug\netcoreapp3.1\Studio2-Counting-Characters.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\bin\Debug\netcoreapp3.1\Studio2-Counting-Characters.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.dll
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.pdb
+C:\Users\Sam\Desktop\LC101\csharp-practice\2-control-flow-collections\Studio2\Studio2-Counting-Characters\Studio2-Counting-Characters\obj\Debug\netcoreapp3.1\Studio2-Counting-Characters.genruntimeconfig.cache
